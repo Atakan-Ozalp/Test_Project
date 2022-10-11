@@ -16,7 +16,7 @@ person_who_will_pay = names[random_choice]
 print(person_who_will_pay + " is going to buy the meal today.")
 
 
-#Much simpler and easier way to do this is
+#Much simpler and easier way to do this is. Random garbage
 
 person_who_will_pay = random.choice(names)
 print(person_who_will_pay + " is going to buy the meal today!")
